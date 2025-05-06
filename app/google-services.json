@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71136222416",
+    "project_id": "login-farebase-92da3",
+    "storage_bucket": "login-farebase-92da3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71136222416:android:d5bd9f7076ed29060392d5",
+        "android_client_info": {
+          "package_name": "ochoa.marian.loginfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2_NhFj1mJia2Z_qaeUIdByMt0OJOJhXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
