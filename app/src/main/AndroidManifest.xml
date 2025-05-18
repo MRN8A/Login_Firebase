@@ -1,17 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.tuapp.loginfirebase">
 
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="LoginFirebaseApp"
+        android:label="Login Firebase"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.LoginFirebaseApp">
+        android:theme="@style/Theme.LoginFirebase">
 
-        <activity android:name=".MainActivity" />
-        <activity android:name=".SignUpActivity" />
-        <activity android:name=".LoginActivity">
+        <activity android:name=".SignUP" />
+        <activity android:name=".LoginIN" />
+        <activity android:name=".CalendarActivity" />
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
@@ -19,4 +21,6 @@
         </activity>
 
     </application>
+
 </manifest>
+
